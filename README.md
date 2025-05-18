@@ -1,2 +1,2 @@
 # hbrennum.github.io
-GitHub page
+My GitHub page
